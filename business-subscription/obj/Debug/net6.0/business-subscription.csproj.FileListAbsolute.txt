@@ -1,0 +1,15 @@
+D:\personal word\CsharpProjects\business-subscription\bin\Debug\net6.0\business-subscription.exe
+D:\personal word\CsharpProjects\business-subscription\bin\Debug\net6.0\business-subscription.deps.json
+D:\personal word\CsharpProjects\business-subscription\bin\Debug\net6.0\business-subscription.runtimeconfig.json
+D:\personal word\CsharpProjects\business-subscription\bin\Debug\net6.0\business-subscription.dll
+D:\personal word\CsharpProjects\business-subscription\bin\Debug\net6.0\business-subscription.pdb
+D:\personal word\CsharpProjects\business-subscription\obj\Debug\net6.0\business-subscription.csproj.AssemblyReference.cache
+D:\personal word\CsharpProjects\business-subscription\obj\Debug\net6.0\business-subscription.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal word\CsharpProjects\business-subscription\obj\Debug\net6.0\business-subscription.AssemblyInfoInputs.cache
+D:\personal word\CsharpProjects\business-subscription\obj\Debug\net6.0\business-subscription.AssemblyInfo.cs
+D:\personal word\CsharpProjects\business-subscription\obj\Debug\net6.0\business-subscription.csproj.CoreCompileInputs.cache
+D:\personal word\CsharpProjects\business-subscription\obj\Debug\net6.0\business-subscription.dll
+D:\personal word\CsharpProjects\business-subscription\obj\Debug\net6.0\refint\business-subscription.dll
+D:\personal word\CsharpProjects\business-subscription\obj\Debug\net6.0\business-subscription.pdb
+D:\personal word\CsharpProjects\business-subscription\obj\Debug\net6.0\business-subscription.genruntimeconfig.cache
+D:\personal word\CsharpProjects\business-subscription\obj\Debug\net6.0\ref\business-subscription.dll
