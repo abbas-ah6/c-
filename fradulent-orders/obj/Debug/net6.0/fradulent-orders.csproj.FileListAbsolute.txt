@@ -1,0 +1,15 @@
+D:\personal word\CsharpProjects\fradulent-orders\bin\Debug\net6.0\fradulent-orders.exe
+D:\personal word\CsharpProjects\fradulent-orders\bin\Debug\net6.0\fradulent-orders.deps.json
+D:\personal word\CsharpProjects\fradulent-orders\bin\Debug\net6.0\fradulent-orders.runtimeconfig.json
+D:\personal word\CsharpProjects\fradulent-orders\bin\Debug\net6.0\fradulent-orders.dll
+D:\personal word\CsharpProjects\fradulent-orders\bin\Debug\net6.0\fradulent-orders.pdb
+D:\personal word\CsharpProjects\fradulent-orders\obj\Debug\net6.0\fradulent-orders.csproj.AssemblyReference.cache
+D:\personal word\CsharpProjects\fradulent-orders\obj\Debug\net6.0\fradulent-orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal word\CsharpProjects\fradulent-orders\obj\Debug\net6.0\fradulent-orders.AssemblyInfoInputs.cache
+D:\personal word\CsharpProjects\fradulent-orders\obj\Debug\net6.0\fradulent-orders.AssemblyInfo.cs
+D:\personal word\CsharpProjects\fradulent-orders\obj\Debug\net6.0\fradulent-orders.csproj.CoreCompileInputs.cache
+D:\personal word\CsharpProjects\fradulent-orders\obj\Debug\net6.0\fradulent-orders.dll
+D:\personal word\CsharpProjects\fradulent-orders\obj\Debug\net6.0\refint\fradulent-orders.dll
+D:\personal word\CsharpProjects\fradulent-orders\obj\Debug\net6.0\fradulent-orders.pdb
+D:\personal word\CsharpProjects\fradulent-orders\obj\Debug\net6.0\fradulent-orders.genruntimeconfig.cache
+D:\personal word\CsharpProjects\fradulent-orders\obj\Debug\net6.0\ref\fradulent-orders.dll
